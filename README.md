@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 3️⃣ **Run the Application:**  
 ```bash
-streamlit run app.py
+streamlit run ml.py
 ```
 
 4️⃣ **Upload Your Data & Get Predictions!** 🚀
